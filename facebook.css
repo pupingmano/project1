@@ -1,0 +1,21 @@
+p {font-size: 20px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;}
+
+h1 {font-family: 'Sacremento', Arial, Helvetica, sans-serif;
+color: maroon;}
+
+body {background-image: url(photo1.jpeg);
+background-attachment: scroll;
+background-color: white;}
+
+h5 {font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-style: italic;
+font-weight: bold;}
+
+h6 {font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    color: lightpink ;}
